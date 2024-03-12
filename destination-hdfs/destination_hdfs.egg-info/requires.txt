@@ -1,0 +1,5 @@
+airbyte-cdk
+pywebhdfs~=0.4.1
+
+[tests]
+pytest~=6.2

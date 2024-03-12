@@ -1,0 +1,11 @@
+README.md
+setup.py
+destination_hdfs/__init__.py
+destination_hdfs/client.py
+destination_hdfs/destination.py
+destination_hdfs/spec.json
+destination_hdfs.egg-info/PKG-INFO
+destination_hdfs.egg-info/SOURCES.txt
+destination_hdfs.egg-info/dependency_links.txt
+destination_hdfs.egg-info/requires.txt
+destination_hdfs.egg-info/top_level.txt

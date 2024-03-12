@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: destination_hdfs
+Version: 0.0.0
+Summary: Destination implementation for Hdfs.
+Author: Airbyte
+Author-email: contact@airbyte.io
+Requires-Dist: airbyte-cdk
+Requires-Dist: pywebhdfs~=0.4.1
+Provides-Extra: tests
+Requires-Dist: pytest~=6.2; extra == "tests"
